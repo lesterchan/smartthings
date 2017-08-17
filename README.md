@@ -1,5 +1,5 @@
 # Lester Chan's SmartThings Apps & Custom Device Handlers
-Adapted from [Peter Major](https://github.com/petermajor/SmartThings).
+Adapted from [Peter Major](https://github.com/petermajor/SmartThings). For devices with EU Z-Wave frequency (868.42 MHz) only.
 
 
 ## Apps
